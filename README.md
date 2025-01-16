@@ -13,5 +13,5 @@ During my time at SAP, I gain hands-on experience in various areas of the compan
 
 ### 📬 Contact
 
-- 💼 [LinkedIn: Niklas Dziwisch](https://www.linkedin.com/in/dziwisch/)
-- 📂 [GitHub: ni-dz](https://github.com/ni-dz)
+- LinkedIn: [Niklas Dziwisch](https://www.linkedin.com/in/dziwisch/)
+- GitHub: [ni-dz](https://github.com/ni-dz)
