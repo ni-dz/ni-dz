@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-dz)](https://github.com/ni-dz/github-readme-stats)
+[![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-dz&show_icons=true)](https://github.com/ni-dz/github-readme-stats)
 
 <!--
 **ni-dz/ni-dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
