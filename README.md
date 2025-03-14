@@ -1,3 +1,6 @@
+
+![1730277125564](https://github.com/user-attachments/assets/8f88fea6-0d14-4fd7-ba6e-46868e233977?raw=true)
+
 ## Welcome to My GitHub Profile!
 
 Hi, I'm Niklas! I'm currently a vocational training student at SAP in business informatics with a focus on Data Science.  
